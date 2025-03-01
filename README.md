@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saqlain Ali Shah</h1>
+<h1 align="center">Hi 👋, I'm Saqlain Ali Shah from Gilgit Baltistan</h1>
 <h3 align="center">A passionate Flutter developer from Gilgit Baltistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainalyshah&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainalyshah" /> </p>
@@ -35,6 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqlainalyshah&show_icons=true&locale=en" alt="saqlainalyshah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainalyshah&" alt="saqlainalyshah" /></p>
-## Hi there 👋
 
+<!-- Snake animation -->
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
